@@ -1,4 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=poppins:300,400,500,600,700,800,900&dispal=swap');
+h1{
+    text-align: center;
+    justify-content: center;
+    align-self: start;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-stretch: extra-expanded;
+    font-style: inherit;
+    color: lavenderblush;
+}
 .
 {
     margin: 0;
